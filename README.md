@@ -59,8 +59,12 @@ En el reporte visual vamos a insertar nuestros graficos, tarjetas o tablas que r
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-de-Ventas-Canasta-Familiar/main/assets/images/insertar-grafico-tipo-dona.PNG">
 </div>
 
-- Dando estilos, cambiando titulos y ajustes adicional para una **presentación más clara y estructurada de la información** este es el resultado final:
+- Dando estilos, cambiando titulos y ajustes adicional para una **presentación más clara y estructurada de la información**:  
+  **RESULTADO FINAL**
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-de-Ventas-Canasta-Familiar/main/assets/images/resultado-final.PNG">
 </div>
+
+
+**:link:[Dashboard-ventas-canasta-familiar.pbix](https://raw.githubusercontent.com/WilliamLopez663/Dashboard-de-Ventas-Canasta-Familiar/assets/docs/Dashboard-de-Ventas-Canasta-Familiar.pbix)**
 
