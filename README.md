@@ -1,4 +1,4 @@
-# :bar_chart: Dashboard de Ventas - Canasta Familiar
+# :chart_with_upwards_trend: Dashboard de Ventas - Canasta Familiar
 Este dashboard presenta una visión integral del desempeño de ventas de productos pertenecientes a la canasta familiar. Permite analizar tendencias, comparar categorías, y evaluar el comportamiento de consumo en distintos periodos y continentes.
 
 ## :outbox_tray: Cargar la información
@@ -26,7 +26,7 @@ Columnas `Costo Total` y `Utilidad`
 </div>
 <br>
 
-## Realizar el reporte visual
+## :bar_chart: Realizar el reporte visual
 En el reporte visual vamos a insertar nuestros graficos, tarjetas o tablas que representen mejor la información segun las necesidades:
 
 Insertando tarjeta del producto mas vendido:
