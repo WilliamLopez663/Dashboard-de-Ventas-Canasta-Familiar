@@ -5,7 +5,23 @@ Este dashboard presenta una visión integral del desempeño de ventas de product
 Realizar el cargue de la información de las ventas a `POWER BI` en este caso la información se encuentra en `EXCEL`:  
 **:link:[DataVentas.xlxs](https://raw.githubusercontent.com/WilliamLopez663/Dashboard-de-Ventas-Canasta-Familiar/assets/docs/DataVentasPBI.xlxs)**
 
-Tras realizar la operación se puede visualizar la información cargada
+Tras realizar la operación se puede visualizar la información cargada:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-de-Ventas-Canasta-Familiar/main/assets/images/informacion-cargada.PNG">
 </div>
+<br>
+
+## Transformar los datos
+Para tranformar los datos necesitamos agregar columnas que reflejen los costos totales, ventas totales y la utilidad.
+
+Creando columnas a partir de operar nuestras columnas existentes:  
+Columna `Precio Total`
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-de-Ventas-Canasta-Familiar/main/assets/images/columna-precio-total.PNG">
+</div>
+
+Columnas `Costo Total` y `Utilidad`
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-de-Ventas-Canasta-Familiar/main/assets/images/columna-costo-total-y-utilidad.PNG">
+</div>
+
