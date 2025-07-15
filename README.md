@@ -14,8 +14,7 @@ Realizar el cargue de la información de las ventas a `POWER BI` en este caso la
 ## :recycle: Transformar los datos
 Para tranformar los datos necesitamos agregar columnas que reflejen los costos totales, ventas totales y la utilidad.
 
-- Creando columnas a partir de operar nuestras columnas existentes:  
-Columna `Precio Total`
+- Creando columna `Precio Total`
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-de-Ventas-Canasta-Familiar/main/assets/images/columna-precio-total.PNG">
 </div>  
