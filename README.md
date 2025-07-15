@@ -33,37 +33,44 @@ En el reporte visual vamos a insertar nuestros graficos, tarjetas o tablas que r
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-de-Ventas-Canasta-Familiar/main/assets/images/insertando-tarjeta-producto-mas-vendido.PNG">
 </div>
+<br>
 
 - Insertando `imagen` como `fondo`:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-de-Ventas-Canasta-Familiar/main/assets/images/insertar-imagen-como-fondo.PNG">
 </div>
+<br>
 
 - Insertando tarjeta `venta total`, `costo total`, `utilidad` y `cantidad`:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-de-Ventas-Canasta-Familiar/main/assets/images/insertando-tarjeta-venta-total-costo-total-utilidad-cantidad.PNG">
 </div>
+<br>
 
 - Insertando `grafico de línea y barras agrupadas` para visualizar las `ventas totales` y las `cantidades` a lo largo del tiempo:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-de-Ventas-Canasta-Familiar/main/assets/images/insertando-grafico-de-barras-agrupadas.PNG">
 </div>
+<br>
 
 - Insertando `gráfico de barras apiladas` para visualizar el `total de ventas por marca`:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-de-Ventas-Canasta-Familiar/main/assets/images/insertar-grafico-barras-apiladas.PNG">
 </div>
+<br>
 
 - Insertando `gráfico tipo dona` para validar que `porcentaje de ventas` tiene cada continente:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-de-Ventas-Canasta-Familiar/main/assets/images/insertar-grafico-tipo-dona.PNG">
 </div>
+<br>
 
 - Dando estilos, cambiando titulos y ajustes adicional para una `presentación más clara y estructurada de la información`:  
   **`RESULTADO FINAL`**
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-de-Ventas-Canasta-Familiar/main/assets/images/resultado-final.PNG">
 </div>
+<br>
 
 
 **:link: [Dashboard-ventas-canasta-familiar.pbix](https://raw.githubusercontent.com/WilliamLopez663/Dashboard-de-Ventas-Canasta-Familiar/main/assets/docs/Dashboard-de-Ventas-Canasta-Familiar.pbix)**
