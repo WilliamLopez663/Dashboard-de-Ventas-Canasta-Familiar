@@ -3,7 +3,8 @@ Este dashboard presenta una visión integral del desempeño de ventas de product
 
 ## :outbox_tray: Cargar la información
 Realizar el cargue de la información de las ventas a `POWER BI` en este caso la información se encuentra en `EXCEL`:  
-:link: **[DataVentas.xlxs](https://raw.githubusercontent.com/WilliamLopez663/Dashboard-de-Ventas-Canasta-Familiar/main/assets/docs/DataVentasPBI.xlxs)**
+
+**:link: [DataVentas.xlxs](https://raw.githubusercontent.com/WilliamLopez663/Dashboard-de-Ventas-Canasta-Familiar/main/assets/docs/DataVentasPBI.xlxs)**
 
 - Tras realizar la operación se puede visualizar la información cargada:
 <div align="center">
