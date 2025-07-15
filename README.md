@@ -1,7 +1,7 @@
 # :bar_chart: Dashboard de Ventas - Canasta Familiar
 Este dashboard presenta una visión integral del desempeño de ventas de productos pertenecientes a la canasta familiar. Permite analizar tendencias, comparar categorías, y evaluar el comportamiento de consumo en distintos periodos y continentes.
 
-## Cargar la información
+## :outbox_tray: Cargar la información
 Realizar el cargue de la información de las ventas a `POWER BI` en este caso la información se encuentra en `EXCEL`:  
 **:link:[DataVentas.xlxs](https://raw.githubusercontent.com/WilliamLopez663/Dashboard-de-Ventas-Canasta-Familiar/assets/docs/DataVentasPBI.xlxs)**
 
@@ -11,7 +11,7 @@ Tras realizar la operación se puede visualizar la información cargada:
 </div>
 <br>
 
-## Transformar los datos
+## :recycle: Transformar los datos
 Para tranformar los datos necesitamos agregar columnas que reflejen los costos totales, ventas totales y la utilidad.
 
 Creando columnas a partir de operar nuestras columnas existentes:  
@@ -24,4 +24,10 @@ Columnas `Costo Total` y `Utilidad`
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-de-Ventas-Canasta-Familiar/main/assets/images/columna-costo-total-y-utilidad.PNG">
 </div>
+<br>
+
+## Realizar el reporte visual
+En el reporte visual vamos a insertar nuestros graficos, tarjetas o tablas que representen mejor la información segun las necesidades:
+
+Insertando tarjeta del producto mas vendido:
 
